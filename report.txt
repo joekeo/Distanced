@@ -1,0 +1,306 @@
+Info: Reading netlist file "C:\Users\Pepe\Documents\github\Distanced\distanced\distanced.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/5BE6E975:Capacitors_SMD:CP_Elec_3x5.3".
+
+Adding new component "C1:/5BE6E975" footprint "Capacitors_SMD:CP_Elec_3x5.3".
+
+Changing component "C1:/5BE6E975" pin "2" net name from "" to "GNDREF".
+
+Changing component "C1:/5BE6E975" pin "1" net name from "" to "RAW".
+
+Info: Checking netlist component footprint "C2:/5BE6F392:Capacitors_SMD:C_0402".
+
+Adding new component "C2:/5BE6F392" footprint "Capacitors_SMD:C_0402".
+
+Changing component "C2:/5BE6F392" pin "1" net name from "" to "GNDREF".
+
+Changing component "C2:/5BE6F392" pin "2" net name from "" to "Net-(C2-Pad2)".
+
+Info: Checking netlist component footprint "C3:/5BE6EBAA:Capacitors_SMD:CP_Elec_3x5.3".
+
+Adding new component "C3:/5BE6EBAA" footprint "Capacitors_SMD:CP_Elec_3x5.3".
+
+Changing component "C3:/5BE6EBAA" pin "2" net name from "" to "Net-(C3-Pad2)".
+
+Changing component "C3:/5BE6EBAA" pin "1" net name from "" to "VCC".
+
+Info: Checking netlist component footprint "C4:/5BE6EC1A:Capacitors_SMD:C_0402".
+
+Adding new component "C4:/5BE6EC1A" footprint "Capacitors_SMD:C_0402".
+
+Changing component "C4:/5BE6EC1A" pin "1" net name from "" to "VCC".
+
+Changing component "C4:/5BE6EC1A" pin "2" net name from "" to "Net-(C3-Pad2)".
+
+Info: Checking netlist component footprint "C5:/5BE6F947:Capacitors_SMD:C_0402".
+
+Adding new component "C5:/5BE6F947" footprint "Capacitors_SMD:C_0402".
+
+Changing component "C5:/5BE6F947" pin "1" net name from "" to "VCC".
+
+Changing component "C5:/5BE6F947" pin "2" net name from "" to "GNDREF".
+
+Info: Checking netlist component footprint "C6:/5BE70A51:Capacitors_SMD:C_0402".
+
+Adding new component "C6:/5BE70A51" footprint "Capacitors_SMD:C_0402".
+
+Changing component "C6:/5BE70A51" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Changing component "C6:/5BE70A51" pin "2" net name from "" to "DRT".
+
+Info: Checking netlist component footprint "C7:/5BE7154C:Capacitors_SMD:C_0402".
+
+Adding new component "C7:/5BE7154C" footprint "Capacitors_SMD:C_0402".
+
+Changing component "C7:/5BE7154C" pin "1" net name from "" to "Net-(C7-Pad1)".
+
+Changing component "C7:/5BE7154C" pin "2" net name from "" to "GNDREF".
+
+Info: Checking netlist component footprint "C8:/5BE71604:Capacitors_SMD:C_0402".
+
+Adding new component "C8:/5BE71604" footprint "Capacitors_SMD:C_0402".
+
+Changing component "C8:/5BE71604" pin "1" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "C8:/5BE71604" pin "2" net name from "" to "GNDREF".
+
+Info: Checking netlist component footprint "C9:/5BE7C01B:Capacitors_SMD:C_0402".
+
+Adding new component "C9:/5BE7C01B" footprint "Capacitors_SMD:C_0402".
+
+Changing component "C9:/5BE7C01B" pin "1" net name from "" to "VCC".
+
+Changing component "C9:/5BE7C01B" pin "2" net name from "" to "GNDREF".
+
+Info: Checking netlist component footprint "C10:/5BE7C445:Capacitors_SMD:C_0402".
+
+Adding new component "C10:/5BE7C445" footprint "Capacitors_SMD:C_0402".
+
+Changing component "C10:/5BE7C445" pin "1" net name from "" to "VCC".
+
+Changing component "C10:/5BE7C445" pin "2" net name from "" to "GNDREF".
+
+Info: Checking netlist component footprint "D1:/5BE6EA44:LEDs:LED_0402".
+
+Adding new component "D1:/5BE6EA44" footprint "LEDs:LED_0402".
+
+Changing component "D1:/5BE6EA44" pin "2" net name from "" to "VCC".
+
+Changing component "D1:/5BE6EA44" pin "1" net name from "" to "Net-(D1-Pad1)".
+
+Info: Checking netlist component footprint "D2:/5BE7656A:LEDs:LED_0402".
+
+Adding new component "D2:/5BE7656A" footprint "LEDs:LED_0402".
+
+Changing component "D2:/5BE7656A" pin "2" net name from "" to "D13".
+
+Changing component "D2:/5BE7656A" pin "1" net name from "" to "Net-(D2-Pad1)".
+
+Info: Checking netlist component footprint "LSR1:/5BE7AA98:VL53L0X:VL53L0X".
+
+Adding new component "LSR1:/5BE7AA98" footprint "VL53L0X:VL53L0X".
+
+Changing component "LSR1:/5BE7AA98" pin "1" net name from "" to "VCC".
+
+Changing component "LSR1:/5BE7AA98" pin "2" net name from "" to "GNDREF".
+
+Changing component "LSR1:/5BE7AA98" pin "3" net name from "" to "GNDREF".
+
+Changing component "LSR1:/5BE7AA98" pin "4" net name from "" to "GNDREF".
+
+Changing component "LSR1:/5BE7AA98" pin "5" net name from "" to "D3".
+
+Changing component "LSR1:/5BE7AA98" pin "6" net name from "" to "GNDREF".
+
+Changing component "LSR1:/5BE7AA98" pin "7" net name from "" to "D4".
+
+Changing component "LSR1:/5BE7AA98" pin "8" net name from "" to "Net-(LSR1-Pad8)".
+
+Changing component "LSR1:/5BE7AA98" pin "9" net name from "" to "A4".
+
+Changing component "LSR1:/5BE7AA98" pin "10" net name from "" to "A5".
+
+Changing component "LSR1:/5BE7AA98" pin "11" net name from "" to "VCC".
+
+Changing component "LSR1:/5BE7AA98" pin "12" net name from "" to "GNDREF".
+
+Info: Checking netlist component footprint "R1:/5BE6EAC8:Resistors_SMD:R_0402".
+
+Adding new component "R1:/5BE6EAC8" footprint "Resistors_SMD:R_0402".
+
+Changing component "R1:/5BE6EAC8" pin "1" net name from "" to "Net-(D1-Pad1)".
+
+Changing component "R1:/5BE6EAC8" pin "2" net name from "" to "Net-(C3-Pad2)".
+
+Info: Checking netlist component footprint "R2:/5BE7325D:Resistors_SMD:R_0402".
+
+Adding new component "R2:/5BE7325D" footprint "Resistors_SMD:R_0402".
+
+Changing component "R2:/5BE7325D" pin "1" net name from "" to "VCC".
+
+Changing component "R2:/5BE7325D" pin "2" net name from "" to "A4".
+
+Info: Checking netlist component footprint "R3:/5BE732C5:Resistors_SMD:R_0402".
+
+Adding new component "R3:/5BE732C5" footprint "Resistors_SMD:R_0402".
+
+Changing component "R3:/5BE732C5" pin "1" net name from "" to "VCC".
+
+Changing component "R3:/5BE732C5" pin "2" net name from "" to "A5".
+
+Info: Checking netlist component footprint "R4:/5BE766FF:Resistors_SMD:R_0402".
+
+Adding new component "R4:/5BE766FF" footprint "Resistors_SMD:R_0402".
+
+Changing component "R4:/5BE766FF" pin "1" net name from "" to "GNDREF".
+
+Changing component "R4:/5BE766FF" pin "2" net name from "" to "Net-(D2-Pad1)".
+
+Info: Checking netlist component footprint "R5:/5BE70E42:Resistors_SMD:R_0402".
+
+Adding new component "R5:/5BE70E42" footprint "Resistors_SMD:R_0402".
+
+Changing component "R5:/5BE70E42" pin "1" net name from "" to "VCC".
+
+Changing component "R5:/5BE70E42" pin "2" net name from "" to "Net-(C6-Pad1)".
+
+Info: Checking netlist component footprint "R6:/5BE7D80E:Resistors_SMD:R_0402".
+
+Adding new component "R6:/5BE7D80E" footprint "Resistors_SMD:R_0402".
+
+Changing component "R6:/5BE7D80E" pin "1" net name from "" to "VCC".
+
+Changing component "R6:/5BE7D80E" pin "2" net name from "" to "D4".
+
+Info: Checking netlist component footprint "R7:/5BE7D2D6:Resistors_SMD:R_0402".
+
+Adding new component "R7:/5BE7D2D6" footprint "Resistors_SMD:R_0402".
+
+Changing component "R7:/5BE7D2D6" pin "1" net name from "" to "VCC".
+
+Changing component "R7:/5BE7D2D6" pin "2" net name from "" to "D3".
+
+Info: Checking netlist component footprint "RS485:/5BE71888:Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm".
+
+Adding new component "RS485:/5BE71888" footprint "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm".
+
+Changing component "RS485:/5BE71888" pin "1" net name from "" to "RXI".
+
+Changing component "RS485:/5BE71888" pin "2" net name from "" to "D2".
+
+Changing component "RS485:/5BE71888" pin "3" net name from "" to "D2".
+
+Changing component "RS485:/5BE71888" pin "4" net name from "" to "TXO".
+
+Changing component "RS485:/5BE71888" pin "5" net name from "" to "GNDREF".
+
+Changing component "RS485:/5BE71888" pin "6" net name from "" to "A".
+
+Changing component "RS485:/5BE71888" pin "7" net name from "" to "B".
+
+Changing component "RS485:/5BE71888" pin "8" net name from "" to "VCC".
+
+Info: Checking netlist component footprint "SWRST1:/5BE70977:Buttons_Switches_THT:SW_PUSH_6mm_h4.3mm".
+
+Adding new component "SWRST1:/5BE70977" footprint "Buttons_Switches_THT:SW_PUSH_6mm_h4.3mm".
+
+Changing component "SWRST1:/5BE70977" pin "2" net name from "" to "GNDREF".
+
+Changing component "SWRST1:/5BE70977" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Changing component "SWRST1:/5BE70977" pin "2" net name from "" to "GNDREF".
+
+Changing component "SWRST1:/5BE70977" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Info: Checking netlist component footprint "uC1:/5BE6DF72:Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm".
+
+Adding new component "uC1:/5BE6DF72" footprint "Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm".
+
+Changing component "uC1:/5BE6DF72" pin "1" net name from "" to "D3".
+
+Changing component "uC1:/5BE6DF72" pin "2" net name from "" to "D4".
+
+Changing component "uC1:/5BE6DF72" pin "3" net name from "" to "GNDREF".
+
+Changing component "uC1:/5BE6DF72" pin "4" net name from "" to "VCC".
+
+Changing component "uC1:/5BE6DF72" pin "5" net name from "" to "GNDREF".
+
+Changing component "uC1:/5BE6DF72" pin "6" net name from "" to "VCC".
+
+Changing component "uC1:/5BE6DF72" pin "7" net name from "" to "Net-(C7-Pad1)".
+
+Changing component "uC1:/5BE6DF72" pin "8" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "uC1:/5BE6DF72" pin "9" net name from "" to "D5".
+
+Changing component "uC1:/5BE6DF72" pin "10" net name from "" to "D6".
+
+Changing component "uC1:/5BE6DF72" pin "11" net name from "" to "D7".
+
+Changing component "uC1:/5BE6DF72" pin "12" net name from "" to "D8".
+
+Changing component "uC1:/5BE6DF72" pin "13" net name from "" to "D9".
+
+Changing component "uC1:/5BE6DF72" pin "14" net name from "" to "D10".
+
+Changing component "uC1:/5BE6DF72" pin "15" net name from "" to "D11".
+
+Changing component "uC1:/5BE6DF72" pin "16" net name from "" to "D12".
+
+Changing component "uC1:/5BE6DF72" pin "17" net name from "" to "D13".
+
+Changing component "uC1:/5BE6DF72" pin "18" net name from "" to "VCC".
+
+Changing component "uC1:/5BE6DF72" pin "19" net name from "" to "A6".
+
+Changing component "uC1:/5BE6DF72" pin "20" net name from "" to "Net-(C2-Pad2)".
+
+Changing component "uC1:/5BE6DF72" pin "21" net name from "" to "GNDREF".
+
+Changing component "uC1:/5BE6DF72" pin "22" net name from "" to "A7".
+
+Changing component "uC1:/5BE6DF72" pin "23" net name from "" to "A0".
+
+Changing component "uC1:/5BE6DF72" pin "24" net name from "" to "A1".
+
+Changing component "uC1:/5BE6DF72" pin "25" net name from "" to "A2".
+
+Changing component "uC1:/5BE6DF72" pin "26" net name from "" to "A3".
+
+Changing component "uC1:/5BE6DF72" pin "27" net name from "" to "A4".
+
+Changing component "uC1:/5BE6DF72" pin "28" net name from "" to "A5".
+
+Changing component "uC1:/5BE6DF72" pin "29" net name from "" to "Net-(C6-Pad1)".
+
+Changing component "uC1:/5BE6DF72" pin "30" net name from "" to "RXI".
+
+Changing component "uC1:/5BE6DF72" pin "31" net name from "" to "TXO".
+
+Changing component "uC1:/5BE6DF72" pin "32" net name from "" to "D2".
+
+Info: Checking netlist component footprint "Vreg1:/5BE6E280:TO_SOT_Packages_SMD:SOT-23-5".
+
+Adding new component "Vreg1:/5BE6E280" footprint "TO_SOT_Packages_SMD:SOT-23-5".
+
+Changing component "Vreg1:/5BE6E280" pin "1" net name from "" to "RAW".
+
+Changing component "Vreg1:/5BE6E280" pin "2" net name from "" to "GNDREF".
+
+Changing component "Vreg1:/5BE6E280" pin "3" net name from "" to "Net-(Vreg1-Pad3)".
+
+Changing component "Vreg1:/5BE6E280" pin "4" net name from "" to "Net-(Vreg1-Pad4)".
+
+Changing component "Vreg1:/5BE6E280" pin "5" net name from "" to "VCC".
+
+Info: Checking netlist component footprint "Y1:/5BE711D7:Crystals:Crystal_SMD_2016-4pin_2.0x1.6mm".
+
+Adding new component "Y1:/5BE711D7" footprint "Crystals:Crystal_SMD_2016-4pin_2.0x1.6mm".
+
+Changing component "Y1:/5BE711D7" pin "1" net name from "" to "Net-(C7-Pad1)".
+
+Changing component "Y1:/5BE711D7" pin "2" net name from "" to "Net-(C8-Pad1)".
+
